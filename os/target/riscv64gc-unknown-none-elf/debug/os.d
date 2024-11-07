@@ -1,1 +1,1 @@
-/home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/target/riscv64gc-unknown-none-elf/debug/os: /home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/src/lang_items.rs /home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/src/main.rs
+/home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/target/riscv64gc-unknown-none-elf/debug/os: /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/entry.asm /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/lang_items.rs /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/main.rs
