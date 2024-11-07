@@ -1,1 +1,0 @@
-/home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/target/riscv64gc-unknown-none-elf/debug/os: /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/entry.asm /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/lang_items.rs /home/jeamianh/Code/rcore/2024a-rcore-JeaMianh/os/src/main.rs

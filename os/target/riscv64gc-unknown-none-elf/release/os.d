@@ -1,1 +1,0 @@
-/home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/target/riscv64gc-unknown-none-elf/release/os: /home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/src/entry.asm /home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/src/lang_items.rs /home/jeamianh/Code/rcore/rCore-Camp-Code-2024A/os/src/main.rs
